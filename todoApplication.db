@@ -1,0 +1,6 @@
+CREATE TABLE 
+todo(id INTEGER,
+ todo VARCHAR(250), 
+ priority VARCHAR(250), 
+ status VARCHAR(250));
+
